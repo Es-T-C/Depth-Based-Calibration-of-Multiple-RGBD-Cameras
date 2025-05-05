@@ -1,3 +1,4 @@
+# Under peer review – redistribution or publication of this code or data without explicit permission is prohibited.
 # Depth-Based-Calibration-of-Multiple-RGBD-Cameras
 Novel Methods for Depth-Based Calibration of Multiple RGBD Cameras using Four Mutually Equidistant Spheres
 
