@@ -1,5 +1,6 @@
 # Depth-Based-Calibration-of-Multiple-RGBD-Cameras
-Novel Methods for Depth-Based Calibration of Multiple RGBD Cameras using Four Mutually Equidistant Spheres
+Cite **Novel Methods for Depth-Based Calibration of Multiple RGBD Cameras using Four Mutually Equidistant Spheres**
+doi: 10.1109/JSEN.2025.3616445 
 
 - This project performs **depth-only calibration** of four RGB-D cameras using a custom-made calibration object consisting of **four equal-radius spheres**.  
 - Two novel optimization methods inspired by **Bundle Adjustment** are proposed, operating directly on **3D coordinates** computed from depth data.
